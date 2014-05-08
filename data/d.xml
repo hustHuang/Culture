@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data> 
+  <area id="beijing" title="北京" alpha="0.320848311" value="北京 -- 13389" url="" target=""/>  
+  <area id="xinjiang" title="新疆" alpha="0.058638869" value="新疆 -- 2447" url="" target=""/>  
+  <area id="chongqing" title="重庆" alpha="0.227054877" value="重庆 -- 9475" url="" target=""/>  
+  <area id="guangdong" title="广东" alpha="0.640330697" value="广东 -- 26721" url="" target=""/>  
+  <area id="zhejiang" title="浙江" alpha="0.696501318" value="浙江 -- 29065" url="" target=""/>  
+  <area id="tianjin" title="天津" alpha="0.131727774" value="天津 -- 5497" url="" target=""/>  
+  <area id="guangxi" title="广西" alpha="0.221183801" value="广西 -- 9230" url="" target=""/>  
+  <area id="neimenggu" title="内蒙古" alpha="0.08713156" value="内蒙古 -- 3636" url="" target=""/>  
+  <area id="ningxia" title="宁夏" alpha="0.023843757" value="宁夏 -- 995" url="" target=""/>  
+  <area id="jiangxi" title="江西" alpha="0.310448119" value="江西 -- 12955" url="" target=""/>  
+  <area id="taiwan" title="台湾" alpha="0.740067098" value="台湾 -- 30883" url="" target=""/>  
+  <area id="guizhou" title="贵州" alpha="0.068775461" value="贵州 -- 2870" url="" target=""/>  
+  <area id="anhui" title="安徽" alpha="0.300047927" value="安徽 -- 12521" url="" target=""/>  
+  <area id="shannxi" title="陕西" alpha="0.175029954" value="陕西 -- 7304" url="" target=""/>  
+  <area id="liaoning" title="辽宁" alpha="0.303882099" value="辽宁 -- 12681" url="" target=""/>  
+  <area id="shanxi" title="山西" alpha="0.168703571" value="山西 -- 7040" url="" target=""/>  
+  <area id="qinghai" title="青海" alpha="0.013108076" value="青海 -- 547" url="" target=""/>  
+  <area id="xianggang" title="香港" alpha="0.046776899" value="香港 -- 1952" url="" target=""/>  
+  <area id="sichuan" title="四川" alpha="0.375724898" value="四川 -- 15679" url="" target=""/>  
+  <area id="jiangsu" title="江苏" alpha="1" value="江苏 -- 41730" url="" target=""/>  
+  <area id="hebei" title="河北" alpha="0.354061826" value="河北 -- 14775" url="" target=""/>  
+  <area id="xizang" title="西藏" alpha="0.002228613" value="西藏 -- 93" url="" target=""/>  
+  <area id="fujian" title="福建" alpha="0.20033549" value="福建 -- 8360" url="" target=""/>  
+  <area id="jilin" title="吉林" alpha="0.138437575" value="吉林 -- 5777" url="" target=""/>  
+  <area id="yunnan" title="云南" alpha="0.115935778" value="云南 -- 4838" url="" target=""/>  
+  <area id="hainan" title="海南" alpha="0.043709561" value="海南 -- 1824" url="" target=""/>  
+  <area id="shanghai" title="上海" alpha="0.180206087" value="上海 -- 7520" url="" target=""/>  
+  <area id="hubei" title="湖北" alpha="0.316199377" value="湖北 -- 13195" url="" target=""/>  
+  <area id="gansu" title="甘肃" alpha="0.058495087" value="甘肃 -- 2441" url="" target=""/>  
+  <area id="hunan" title="湖南" alpha="0.209561467" value="湖南 -- 8745" url="" target=""/>  
+  <area id="shandong" title="山东" alpha="0.832878025" value="山东 -- 34756" url="" target=""/>  
+  <area id="henan" title="河南" alpha="0.385669782" value="河南 -- 16094" url="" target=""/>  
+  <area id="heilongjiang" title="黑龙江" alpha="0.20227654" value="黑龙江 -- 8441" url="" target=""/>
+</data>

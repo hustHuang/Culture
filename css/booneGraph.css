@@ -1,0 +1,27 @@
+/* 
+    Document   : booneGraph
+    Created on : 2013-12-30, 15:27:35
+    Author     : Administrator
+    Description:
+        Purpose of the stylesheet follows.
+*/
+#network-container{width: 56%;height: 800px;float:left;border:1px solid #DADADA;z-index: 0;}
+#filelist-container{width:42%;height: auto;float:right;border:1px solid #DADADA;margin: 0px;z-index: 1;}
+#filelist_header{width: 100%;}
+#getTitle ,#getAll{width: 40%;float: left;height: 30px;}
+#word_links{clear: both;width: 100%;}
+#menu-container{display: none;}
+#selection-menu-container{display: none}
+.sp-container,.sp-picker-container,#navigation{display: none;}
+#sBox{ position: absolute;top:15px;left:25px;width: 450px;height: 30px;z-index:5}
+#menu-isolate-nodes{ margin:5px 0px 2px 0px;}
+#menu-getfile-nodes{ margin:5px 0px 2px 0px;}
+
+#filelist { width: 100%;}
+#list_tab { width:100%;}
+#list_tab th{height: 30px;background-color: #1c94c4;border-bottom:1px solid #ccc;}
+#list_tab td{border-bottom:1px solid #ccc;border-left: 1px solid #ccc;}
+.w_td { text-align: center;vertical-align: middle;}
+.inner_tab{ width: 100%;}
+.inner_tab td{height: 25px;border-bottom: 1px solid #ccc;border-left: 1px solid #ccc;border-right: 1px solid #ccc;}
+.i_td_ip { text-align: center;}
