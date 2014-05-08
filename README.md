@@ -1,10 +1,14 @@
 AMmap and BooneGraph in culture
 =====
 
-###  组件
+###  FrameWork
 
 AMmap and BooneGraph
 
-### 技术
+### Language
 
 js ，php ,mysql
+
+### Author
+
+hustHuang
